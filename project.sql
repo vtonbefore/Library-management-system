@@ -1395,5 +1395,4 @@ INSERT INTO publishers (name, address, phone, email) VALUES
 ('Penguin Random House', '1745 Broadway, New York, NY 10019', '212-782-9000', 'info@penguinrandomhouse.com'),
 ('HarperCollins', '195 Broadway, New York, NY 10007', '212-207-7000', 'contact@harpercollins.com');
 
--- Add more sample data as neededs
-SHOW TABLES;
+-- Add more sample data as need
